@@ -1,0 +1,30 @@
+{
+  "name": "lemur",
+  "version": "1.0.0",
+  "description": "Modelo de app uma página para arrecar doações para projeto hacker",
+  "main": "app.js",
+  "dependencies": {
+    "karma": "^0.12.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonussi/lemur.git"
+  },
+  "keywords": [
+    "lemur",
+    "vakinha",
+    "vaquinha",
+    "racha",
+    "donate"
+  ],
+  "author": "Lucas Tonussi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonussi/lemur/issues"
+  },
+  "homepage": "https://github.com/tonussi/lemur"
+}
