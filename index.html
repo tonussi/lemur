@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+
+<head>
+
+  <title>html video tag</title>
+
+  <link rel="stylesheet" type="text/css" href="estilo.css">
+
+</head>
+
+<body>
+
+  <div id="titulo">
+    <h1>press ctrl+x to play, or the same to stop</h1>
+  </div>
+
+  <div id="processingdiv">
+    <video id="processing" poster="poster.jpg" media="(orientation:landscape)">
+      <source src="http://www.w3schools.com/tags/mov_bbb.mp4" type="video/mp4"/>
+    </video>
+    <canvas id="desenho" />
+  </div>
+
+
+  <script type="text/javascript" src="processing.min.js"></script>
+  <script type="text/javascript" src="filme.js"></script>
+  <script type="text/javascript" src="draw.js"></script>
+
+</body>
+
+</html>
