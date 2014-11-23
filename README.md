@@ -6,9 +6,12 @@ Lemurs make up the infraorder Lemuriformes and are members of a group of primate
 
 # Para usar
 
+```
+sudo apt-get install npm
 npm install -g bower
 bower install Processing.js
 cp /bower_components/Processing.js/processing.min.js processing.min.js
+```
 
 # Video + Canvas
 
