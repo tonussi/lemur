@@ -1,8 +1,8 @@
 ![Lyrebird](http://upload.wikimedia.org/wikipedia/commons/4/42/Flickr_-_law_keven_-_How_much_longer_have_I_got_to_wait%5E.jpg)
 
-# Lemur
+# Ring-tailed lemur
 
-Lemurs make up the infraorder Lemuriformes and are members of a group of primates known as prosimians. The term "lemur" is derived from the Latin word lemures, meaning "spirits of the night" or "ghosts".
+The ring-tailed lemur (Lemur catta) is a large strepsirrhine primate and the most recognized lemur due to its long, black and white ringed tail. It belongs to Lemuridae, one of five lemur families, and is the only member of the Lemur genus. Like all lemurs it is endemic to the island of Madagascar.
 
 # Para usar
 
