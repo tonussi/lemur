@@ -1,2 +1,3 @@
-bower*
+bower_components
 processing*
+node_modules
